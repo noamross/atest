@@ -6,6 +6,4 @@ And another paragraph in this section.  Now I edit this. \cite{Olival_2014}
 
 And a figure \ref{1}
 
-this | is | table
------|----|-------
-1|2|3
+<a href="www.google.com>Raw html link</a>
