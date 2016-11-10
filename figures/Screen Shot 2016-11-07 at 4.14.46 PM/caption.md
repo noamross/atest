@@ -1,1 +1,1 @@
-This is my figure caption
+\label{1} This is my figure caption
