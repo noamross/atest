@@ -1,3 +1,5 @@
+# HEADER
+
 Well hello there.  This is a new paragraph.
 
-And another paragraph in this section.  Now I edit this.
+And another paragraph in this section.  Now I edit this. \cite{Olival_2014}
