@@ -1,3 +1,3 @@
 Well hello there.  This is a new paragraph.
 
-And another paragraph in this section
+And another paragraph in this section.  Now I edit this.
